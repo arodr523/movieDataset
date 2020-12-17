@@ -1,0 +1,2000 @@
+pcu	79	comedy	6.7	1994
+up!	80	comedy	4.9	1976
+gun	81	action	5.1	2010
+boo	94	horror	4.3	2005
+tig	95	documentary	7.2	2015
+uhf	97	comedy	6.7	1989
+bal	103	drama	5.8	2010
+atl	105	drama	5.3	2006
+ego	105	drama	5.6	2013
+ink	106	action	6.6	2009
+x+y	111	drama	6	2015
+joe	118	drama	6.5	2014
+xxx	124	action	5.7	2002
+mud	130	drama	6.9	2013
+ray	152	drama	7	2004
+ali	157	drama	6.7	2001
+r'ha	6	sci-fi	6.3	2013
+i am	76	documentary	6.5	2011
+iris	83	documentary	7.5	2014
+howl	84	drama	6.8	2010
+bean	85	comedy	6.3	1997
+pigs	85	comedy	4.1	2007
+rize	86	documentary	5.6	2005
+tape	86	drama	6.6	2001
+mall	88	drama	5	2014
+riot	88	action	5	2015
+howl	89	horror	4.9	2015
+lucy	89	action	6.3	2014
+bite	90	horror	4.9	2015
+seed	90	horror	3.4	2007
+goon	92	comedy	6.3	2012
+mitt	93	documentary	6.4	2014
+somm	93	documentary	7	2013
+dick	94	comedy	5.7	1999
+coco	95	comedy	4.4	2009
+home	95	documentary	7.8	2009
+good	96	drama	6.4	2008
+jinn	97	thriller	3.6	2014
+eden	98	drama	6.5	2012
+envy	99	comedy	4.9	2004
+muck	99	horror	3.3	2015
+hell	100	drama	6.3	2006
+mama	100	horror	6	2013
+cake	102	drama	6.1	2014
+road	102	documentary	7.7	2014
+prom	104	comedy	5.8	2011
+pina	106	documentary	7.2	2011
+dave	110	comedy	6.2	1993
+push	111	action	5.8	2009
+life	112	drama	5.9	2015
+rudy	114	drama	7.2	1993
+chef	115	comedy	7.2	2014
+wild	115	drama	6.9	2014
+safe	119	drama	7.2	1995
+mask	120	drama	7.1	1985
+edtv	122	comedy	5.4	1999
+neds	124	drama	6.5	2010
+wolf	125	fantasy	5.9	1994
+taps	126	drama	6.3	1981
+fame	134	drama	5.8	1980
+hulk	138	action	5.2	2003
+life	500	documentary	7	2009
+ellis	14	drama	7.2	2015
+zelig	79	comedy	7.1	1983
+djinn	85	horror	4.2	2013
+haunt	86	horror	5.1	2014
+proof	86	drama	5.5	1991
+gayby	89	comedy	5.2	2012
+gummo	89	drama	6.6	1997
+ouija	89	horror	4.9	2014
+speak	89	drama	6.7	2004
+earth	90	documentary	7.5	2007
+brake	92	action	5.2	2012
+chiko	92	drama	6.3	2008
+goats	92	comedy	5.7	2012
+rambo	92	action	6.2	2008
+crush	94	thriller	5.5	2013
+dredd	95	action	6.5	2012
+d-tox	96	action	5.8	2002
+epoch	96	sci-fi	3.9	2001
+live!	96	thriller	5.6	2007
+miele	96	drama	5	2013
+tammy	97	comedy	5.1	2014
+plush	98	thriller	6	2013
+adore	100	drama	6.2	2013
+burnt	100	drama	6.3	2015
+clown	100	horror	5.2	2015
+eddie	100	action	5.8	1996
+manic	100	drama	6.6	2001
+shame	100	drama	6.9	2011
+alfie	103	comedy	5.4	2004
+boudu	104	comedy	5	2005
+belle	105	drama	7.1	2013
+narco	105	comedy	5.8	2004
+shine	105	drama	7.1	1996
+stone	105	drama	4.9	2010
+senna	106	documentary	8	2010
+dutch	107	comedy	6.6	1991
+radio	109	drama	7.1	2003
+bratz	110	comedy	5.9	2007
+lenny	111	drama	6.6	1974
+aloft	112	drama	5.1	2014
+crash	112	drama	7.1	2004
+drift	113	drama	5.6	2013
+ted 2	115	comedy	6.3	2015
+julia	117	drama	5	1977
+crumb	119	documentary	7.1	1994
+rocky	119	drama	7.2	1976
+gigli	121	drama	3.8	2003
+truth	121	drama	6.4	2015
+sicko	123	documentary	7	2007
+faces	130	drama	6.5	1968
+paris	130	drama	6.3	2008
+creed	133	drama	7.3	2015
+julia	138	drama	7.1	2008
+mommy	138	drama	8	2014
+babel	143	drama	6.7	2006
+shoah	566	documentary	8.3	1985
+taken	877	sci-fi	6.8	2002
+curfew	19	drama	7.9	2012
+isteve	79	comedy	4.9	2013
+drones	82	thriller	5.2	2013
+torque	84	action	4.8	2004
+cyborg	86	action	4.8	1989
+exists	86	horror	4.5	2014
+pariah	86	drama	6.8	2011
+pusher	86	thriller	5.2	2012
+sleuth	86	thriller	6.5	2007
+bernie	87	comedy	7.3	1996
+maniac	87	horror	5.7	1980
+pecker	87	comedy	5.5	1998
+august	88	drama	5.9	2008
+man up	88	romantic-comedy	6.5	2015
+r.t.t.	88	comedy	4.7	2009
+unrest	88	horror	5.2	2006
+moving	89	comedy	5.8	1988
+butter	90	comedy	5.9	2011
+devour	90	horror	4.5	2005
+harold	90	comedy	4.6	2008
+sex ed	90	romantic-comedy	5.1	2014
+smiley	90	horror	4.2	2012
+sparks	90	action	4.2	2013
+broken	91	drama	6.3	2012
+clerks	92	comedy	7.2	1994
+easy a	92	comedy	6.6	2010
+fed up	92	documentary	7.3	2014
+g.b.f.	92	comedy	6.1	2013
+saw ii	92	horror	6.2	2005
+squirm	92	horror	5.2	1976
+frozen	93	thriller	5.8	2010
+mojave	93	thriller	4.3	2015
+hostel	94	horror	5.7	2005
+parked	94	drama	5.6	2010
+recoil	94	action	5	2011
+maggie	95	horror	5.1	2015
+martin	95	horror	6.3	1977
+baraka	96	documentary	7.6	1992
+spread	97	comedy	5.3	2009
+brink!	99	drama	5.9	1998
+jaws 3	99	horror	4.2	1983
+savior	99	drama	7	1998
+andron	100	action	4.7	2015
+august	100	drama	6.4	2011
+erased	100	action	5.5	2012
+legion	100	horror	5	2010
+postal	100	action	5.3	2007
+norbit	101	comedy	5.3	2007
+damage	102	action	5.6	2009
+serena	102	drama	5.4	2014
+didier	104	comedy	5.6	1997
+oculus	104	horror	6.2	2013
+hesher	106	drama	6.2	2010
+hooper	107	action	6	1978
+tanguy	108	comedy	5.7	2001
+8 mile	110	drama	6.7	2002
+if....	111	drama	6	1968
+hamlet	112	drama	5	2000
+greedy	113	comedy	5.3	1994
+driven	116	action	4.8	2001
+ransom	117	action	6.2	1996
+kinsey	118	drama	6.3	2004
+quills	124	drama	6.4	2000
+trumbo	124	drama	7.2	2015
+u turn	125	thriller	6.6	1997
+kundun	134	drama	7.1	1997
+sphere	134	sci-fi	5.6	1998
+flight	138	drama	6.4	2012
+marley	144	documentary	7.4	2012
+krrish	154	action	5.6	2006
+khakee	174	action	5.7	2004
+hamlet	185	drama	6.4	2009
+hamlet	242	drama	6.7	1996
+ronaldo	0	documentary	6.5	2015
+imprint	63	horror	7.1	2006
+old joy	73	drama	6.4	2006
+bananas	82	comedy	6.5	1971
+bastard	82	horror	6.2	2015
+mansome	84	documentary	5.1	2012
+hangman	85	thriller	3.9	2015
+in fear	85	thriller	5.2	2013
+smashed	85	drama	6.1	2012
+sx_tape	85	horror	3.3	2014
+cop car	86	thriller	5.5	2015
+freaked	86	comedy	5.3	1993
+catfish	87	documentary	6.4	2010
+ominous	87	horror	5.1	2015
+tabloid	87	documentary	6.3	2010
+cavemen	88	comedy	4.8	2013
+freezer	88	action	5.3	2014
+hot rod	88	action	6.1	2007
+beneath	89	horror	4.8	2013
+retreat	89	thriller	5.3	2011
+the fog	89	horror	6.2	1980
+7 below	90	horror	4.5	2012
+deliria	90	horror	6.6	1987
+fanboys	90	adventure	6.1	2009
+swindle	90	adventure	6.6	2013
+anguish	91	horror	3.8	2015
+lilting	91	drama	7.1	2014
+extract	92	comedy	5.8	2009
+julia x	92	horror	4.1	2011
+haywire	93	thriller	5.5	2012
+vilaine	93	comedy	5.5	2008
+college	94	comedy	4.8	2008
+humpday	94	comedy	5.1	2009
+love me	94	documentary	7	2014
+piranha	94	horror	5.6	1978
+porky's	94	comedy	6	1981
+peeples	95	comedy	6.1	2013
+troll 2	95	horror	4.3	1990
+amreeka	96	drama	6.4	2009
+reclaim	96	thriller	5.1	2014
+the ten	96	comedy	4.8	2007
+tremors	96	action	6.3	1990
+cadence	97	drama	5.5	1990
+elektra	97	action	5	2005
+iverson	97	documentary	7.2	2014
+slacker	97	comedy	6.4	1991
+strike!	97	comedy	6.4	1998
+the ref	97	comedy	6.8	1994
+control	98	action	6.1	2004
+outcast	98	action	4.4	2014
+zapped!	98	comedy	5.6	1982
+phantom	99	thriller	5.4	2013
+redbelt	99	drama	6.4	2008
+calvary	100	drama	7	2014
+laggies	100	romantic-comedy	6.1	2014
+red sky	100	action	3.8	2014
+skyline	100	sci-fi	4.7	2010
+willard	100	horror	5.3	2003
+starlet	103	drama	6.5	2012
+rocky v	104	drama	5.3	1990
+jet set	105	comedy	3.9	2000
+results	105	comedy	5.1	2015
+shelter	105	drama	5.3	2014
+branded	106	sci-fi	4.6	2012
+stripes	106	action	6.5	1981
+gasland	107	documentary	7	2010
+sanctum	108	action	5.7	2011
+fastest	110	documentary	7.3	2011
+floride	110	comedy	6.3	2015
+whip it	111	drama	6.6	2009
+outland	112	sci-fi	5.7	1981
+kingpin	113	comedy	6.4	1996
+blended	117	comedy	6.7	2014
+lullaby	117	drama	5.5	2014
+trishna	117	drama	5.3	2011
+sisters	118	comedy	5.9	2015
+control	121	drama	7	2007
+network	121	drama	7.4	1976
+stealth	121	action	5	2005
+othello	123	drama	5.6	1995
+3 women	124	drama	6.1	1977
+pirates	124	adventure	6.2	1986
+the war	126	drama	6.4	1994
+rob roy	139	adventure	6.2	1995
+chaplin	143	drama	7.4	1992
+traffic	148	drama	6.6	2000
+ragtime	155	drama	6	1981
+boyhood	164	drama	7.6	2014
+cell 213	0	horror	5.2	2011
+ambition	6	sci-fi	6.9	2014
+i'm here	30	drama	7.4	2010
+evidence	78	horror	4.8	2011
+bad moon	80	horror	6	1996
+hellions	80	horror	3.5	2015
+excision	81	horror	5.9	2012
+spy hard	81	action	5.1	1996
+collapse	82	documentary	7.7	2009
+dante 01	82	sci-fi	4.5	2008
+the pest	82	action	5.3	1997
+the dead	83	drama	6.1	1987
+elevator	84	thriller	4.8	2011
+korengal	84	documentary	6.8	2014
+expelled	85	comedy	6.3	2014
+red line	86	thriller	4.9	2013
+song one	86	drama	5.7	2014
+stitches	86	horror	5.2	2012
+trekkies	86	documentary	5.3	1997
+fun size	87	comedy	5.4	2012
+bio-dome	88	comedy	4.6	1996
+breakout	89	action	4.3	2013
+derailed	89	action	3.5	2002
+mccullin	89	documentary	7.2	2012
+out cold	89	comedy	6.1	2001
+big game	90	action	5.2	2014
+deep web	90	documentary	6.9	2015
+hijacked	90	action	2.9	2012
+movie 43	90	comedy	4.4	2013
+not cool	90	comedy	4.1	2014
+suddenly	90	thriller	3.3	2013
+the firm	90	drama	6.3	2009
+the task	90	horror	4.9	2011
+trust me	90	comedy	5.6	2013
+vendetta	90	action	5.9	2015
+d.e.b.s.	91	action	5	2004
+rocky iv	91	drama	6.6	1985
+semi-pro	91	comedy	5.3	2008
+the girl	91	drama	5.9	2012
+cut bank	92	thriller	4.8	2014
+lovelace	92	drama	6	2013
+takedown	92	action	6.3	2000
+the cove	92	documentary	7.9	2009
+accepted	93	comedy	6.1	2006
+eurotrip	93	comedy	6.4	2004
+how high	93	comedy	6.5	2001
+primeval	93	adventure	4.5	2007
+the wash	93	action	5.6	2001
+mallrats	94	romantic-comedy	6.8	1995
+the call	94	thriller	6.6	2013
+the jerk	94	comedy	7	1979
+the stag	94	comedy	5	2013
+45 years	95	drama	6	2015
+bridgend	95	drama	5.7	2015
+reach me	95	drama	5.1	2014
+showtime	95	action	5.2	2002
+strapped	95	drama	4.4	2010
+flicka 2	96	adventure	6	2010
+ken park	97	drama	5.4	2002
+sex tape	97	comedy	5.3	2014
+sniper 2	97	action	5.6	2002
+timecode	97	drama	5.5	2000
+23 blast	98	drama	6	2014
+hercules	98	action	3.1	1983
+election	99	comedy	6.5	1999
+hercules	99	action	5.6	2014
+triangle	99	horror	7	2009
+vacation	99	adventure	6.1	2015
+amore 14	100	comedy	3.8	2009
+fat city	100	drama	5.9	1972
+get hard	100	comedy	5.9	2015
+lovesick	100	romantic-comedy	4.9	2014
+the duff	100	romantic-comedy	6.8	2015
+the tree	100	drama	6.7	2010
+thirteen	100	drama	6.6	2003
+17 again	102	comedy	6	2009
+darkness	102	horror	5.5	2002
+jacknife	102	drama	6	1989
+room 237	102	documentary	6.3	2012
+vendetta	102	action	6.3	2013
+soul man	104	comedy	5.4	1986
+big eyes	105	drama	6.8	2014
+big stan	105	comedy	6	2007
+firewall	105	thriller	5.4	2006
+boychoir	106	drama	6.5	2014
+rapa nui	107	adventure	6.2	1994
+the loft	108	thriller	6.4	2014
+waitress	108	comedy	6.7	2007
+beerfest	110	comedy	5.8	2006
+freejack	110	sci-fi	5.1	1992
+infamous	110	drama	5.5	2006
+precious	110	drama	6.8	2009
+i am ali	111	documentary	6.6	2014
+99 homes	112	drama	6.8	2015
+casanova	112	comedy	6.2	2005
+rat race	112	adventure	5.9	2001
+fracture	113	thriller	7.1	2007
+superbad	113	comedy	7	2007
+home run	114	drama	6.5	2013
+red dawn	114	action	6.5	1984
+"i, robot"	115	action	6.6	2004
+the babe	115	drama	5.5	1992
+italians	116	comedy	4.9	2009
+jimmy p.	117	drama	4.6	2013
+kon-tiki	118	adventure	6.9	2012
+rocky ii	119	drama	6.8	1979
+disgrace	120	drama	6.3	2008
+salinger	120	documentary	5.9	2013
+war room	120	drama	6.9	2015
+fearless	122	drama	6.5	1993
+mary kom	122	drama	7	2014
+salvador	123	drama	6.3	1986
+woodlawn	123	drama	6.8	2015
+die hard	131	action	7.2	1988
+i am sam	132	drama	7.2	2001
+rain man	133	drama	7.4	1988
+the lady	135	drama	7	2011
+ironweed	143	drama	6	1987
+the help	146	drama	7.6	2011
+margaret	149	drama	5.9	2011
+krrish 3	152	action	6.2	2013
+magnolia	188	drama	7.3	1999
+deep dark	0	horror	4.6	2015
+wanderers	4	sci-fi	7.8	2014
+hubble 3d	44	documentary	6.5	2010
+a teacher	75	drama	4.3	2013
+helvetica	80	documentary	7.3	2007
+teen lust	80	comedy	4.3	2014
+king jack	81	drama	6.8	2015
+nailbiter	82	horror	3.4	2013
+september	82	drama	5.5	1987
+blackfish	83	documentary	7.9	2013
+condemned	83	horror	3.7	2015
+deep blue	83	documentary	4.9	2003
+hell ride	84	action	5.7	2008
+safelight	84	drama	5.8	2015
+13 ghosts	85	horror	5.5	1960
+urbanized	85	documentary	7.3	2011
+liar liar	86	comedy	6.2	1997
+high road	87	comedy	6	2012
+honeymoon	87	horror	5.3	2014
+leviathan	87	documentary	6	2012
+bad words	88	comedy	6.2	2013
+boulevard	88	drama	5.6	2014
+carjacked	89	action	5.1	2011
+flight 93	89	drama	6.2	2006
+post grad	89	comedy	5.1	2009
+zoolander	89	comedy	6.1	2001
+albatross	90	drama	6.1	2011
+club life	90	drama	6.3	2015
+hideaways	90	fantasy	6.1	2011
+the breed	90	horror	4.9	2006
+dead mine	91	action	4.6	2012
+dog pound	91	drama	7.7	2010
+evil dead	91	horror	6.3	2013
+rich hill	91	documentary	7.1	2014
+supernova	91	sci-fi	4.7	2000
+meatballs	92	comedy	5.6	1979
+mulligans	92	drama	5.6	2008
+21 & over	93	comedy	5.7	2013
+glassland	93	drama	3.5	2015
+interiors	93	drama	6.3	1978
+poltergay	93	comedy	4.2	2006
+premature	93	comedy	5.1	2014
+boat trip	94	comedy	4.5	2002
+body bags	94	horror	5.3	1993
+neighbors	94	comedy	4.4	1981
+stay cool	94	comedy	4.5	2009
+razorback	95	horror	5.6	1984
+the quest	95	action	5.1	1996
+clockwise	96	comedy	5.7	1986
+last days	96	drama	5	2005
+neighbors	96	comedy	6.2	2014
+submerged	96	action	4.7	2005
+bowfinger	97	comedy	6	1999
+cat run 2	97	action	4.3	2014
+clerks ii	97	comedy	6.9	2006
+cymbeline	97	drama	3.5	2014
+foolproof	97	action	6.4	2003
+hard rain	97	thriller	5.4	1998
+kickboxer	97	action	6.2	1989
+tommy boy	97	comedy	6.8	1995
+barb wire	98	action	4.2	1996
+hitchcock	98	drama	6.2	2012
+philomena	98	drama	7.4	2013
+somewhere	98	drama	6.2	2010
+the watch	98	comedy	5.3	2012
+wild bill	98	drama	6.3	2011
+annabelle	99	horror	5.6	2014
+baby mama	99	comedy	5.8	2008
+rocky iii	99	drama	6.5	1982
+she-devil	99	comedy	6.4	1989
+the party	99	comedy	7.1	1968
+homefront	100	action	6.4	2013
+interview	100	drama	6.3	2007
+lap dance	100	drama	3.8	2014
+leap year	100	romantic-comedy	6.3	2010
+losin' it	100	comedy	4.5	1983
+max payne	100	action	5.3	2008
+palo alto	100	drama	6.4	2014
+sacrifice	100	action	5.6	2011
+john wick	101	action	7	2014
+lawn dogs	101	drama	6.8	1997
+grown ups	102	comedy	6.1	2010
+squatters	102	drama	6.7	2014
+the woman	102	horror	5.9	2011
+no escape	103	action	6.7	2015
+rosewater	103	drama	6.6	2014
+the queen	103	drama	6.6	2006
+dragonfly	104	drama	6.2	2002
+entourage	104	comedy	6.2	2015
+yuppies 2	104	comedy	5	1986
+hall pass	105	comedy	5.4	2011
+lionheart	105	action	5.8	1990
+if i stay	106	drama	7.2	2014
+big night	107	drama	6.6	1996
+legendary	107	drama	6.6	2010
+annapolis	108	drama	5.8	2006
+draft day	109	drama	6.5	2014
+halloween	109	horror	5.8	2007
+girlfight	110	drama	6.3	2000
+norma rae	110	drama	5.8	1979
+labor day	111	drama	6.6	2013
+populaire	111	comedy	6.5	2012
+the raven	111	thriller	6	2012
+towelhead	111	drama	5.3	2008
+used cars	113	action	5.8	1980
+the hours	114	drama	6.7	2002
+vikingdom	114	adventure	4.5	2013
+black sea	115	adventure	6.3	2014
+the birds	119	horror	7	1963
+ladyhawke	121	adventure	6.6	1985
+fireproof	122	drama	7.5	2008
+fish tank	123	drama	6.6	2009
+the brave	123	drama	6	1997
+duplicity	125	thriller	5.5	2009
+showgirls	128	drama	5.3	1995
+stonewall	129	drama	5.6	2015
+spanglish	130	comedy	5.6	2004
+moneyball	133	drama	6.9	2011
+manderlay	139	drama	6.9	2005
+apollo 13	140	drama	7.1	1995
+excalibur	140	adventure	6.5	1981
+the judge	141	drama	7.2	2014
+true lies	141	action	6.6	1994
+alatriste	145	action	5.7	2006
+australia	165	drama	6.3	2008
+nuremberg	180	drama	6.5	2000
+jane eyre	202	drama	4.8	2006
+lights out	3	horror	7.1	2013
+captain eo	17	sci-fi	6.2	1986
+chimpanzee	78	documentary	6.4	2012
+girl model	78	documentary	6.5	2011
+mala noche	78	drama	5.6	1986
+booty call	79	comedy	5.6	1997
+bridegroom	79	documentary	7.1	2013
+peep world	79	comedy	4.9	2010
+it's alive	80	horror	4.2	2008
+screwballs	80	comedy	5.2	1983
+the sitter	81	comedy	5.4	2011
+dirty work	82	comedy	6.4	1998
+date movie	83	comedy	3.9	2006
+extraction	83	action	4.2	2015
+scarecrows	83	horror	6	1988
+chapter 27	84	drama	5.8	2007
+dark horse	84	drama	4	2011
+the animal	84	action	4.5	2001
+fire birds	85	action	3.8	1990
+the shrine	85	horror	5.5	2010
+trojan war	85	comedy	5.5	1997
+vehicle 19	85	thriller	5.1	2013
+blind fury	86	action	5.8	1989
+indigenous	86	horror	4.6	2014
+soul plane	86	comedy	4.8	2004
+freerunner	87	action	4.1	2011
+jawbreaker	87	comedy	5.6	1999
+jesus camp	87	documentary	6.5	2006
+mine games	88	thriller	4.7	2012
+art & copy	89	documentary	6.9	2009
+bride wars	89	comedy	5.8	2009
+kidulthood	89	drama	6.5	2006
+slipstream	89	sci-fi	4.9	2005
+the living	89	thriller	4.6	2014
+dior and i	90	documentary	7.5	2015
+eating out	90	comedy	5.7	2004
+james dean	90	drama	6.7	2001
+the runner	90	drama	4.8	2015
+the secret	90	documentary	5.4	2006
+visioneers	90	comedy	5.7	2008
+wishmaster	90	horror	5.4	1997
+dirty love	91	comedy	4.8	2005
+fast girls	91	drama	4.5	2012
+it's alive	91	horror	5.4	1974
+old school	91	comedy	6.6	2003
+the beaver	91	drama	6	2011
+bloodsport	92	action	6.4	1988
+heatstroke	92	thriller	5.3	2013
+still life	92	drama	7.2	2013
+third star	92	drama	7.1	2010
+cannonball	93	action	5.9	1976
+devil seed	93	horror	5	2012
+hard times	93	drama	5.9	1975
+poison ivy	93	thriller	5.3	1992
+the bridge	93	documentary	6.9	2006
+white frog	93	drama	4.8	2012
+"food, inc."	94	documentary	7.2	2008
+hellraiser	94	horror	6.7	1987
+love punch	94	comedy	5.7	2013
+the ringer	94	comedy	5.5	2005
+waiting...	94	comedy	6	2005
+dad's army	95	comedy	2.9	1971
+earthlings	95	documentary	7.3	2005
+harmontown	95	documentary	6.9	2014
+paddington	95	comedy	7.1	2014
+rapid fire	95	action	6.2	1992
+roadracers	95	drama	4.7	1994
+the barber	95	thriller	5.8	2015
+the comedy	95	drama	5.7	2012
+about alex	96	drama	6.5	2014
+black dawn	96	action	4.2	2005
+concussion	96	drama	5.2	2013
+joy ride 3	96	thriller	4.4	2014
+lucky them	96	drama	5	2013
+sherrybaby	96	drama	6.5	2006
+the forger	96	drama	6.8	2012
+the moguls	96	comedy	4.8	2005
+date night	97	comedy	5.9	2010
+detachment	97	drama	7.1	2011
+manglehorn	97	drama	5	2015
+mean girls	97	comedy	6.8	2004
+sinister 2	97	horror	5.5	2015
+spellbound	97	documentary	6.7	2002
+barbarella	98	sci-fi	5.4	1968
+breathe in	98	drama	6.2	2013
+caddyshack	98	comedy	6.5	1980
+cuban fury	98	comedy	5.8	2014
+four rooms	98	comedy	6.4	1995
+wanderlust	98	comedy	5.2	2012
+witchboard	98	horror	5.6	1986
+pathfinder	99	action	5.4	2007
+ride along	99	action	6.1	2014
+superfast!	99	comedy	4.4	2015
+a good man	100	action	4.9	2014
+redemption	100	action	5.7	2013
+funny farm	101	comedy	6.5	1988
+hell night	101	horror	5.9	1981
+nasty baby	101	drama	5	2015
+blue steel	102	thriller	5.4	1990
+still mine	102	drama	6.1	2012
+the canyon	102	thriller	5.9	2009
+irina palm	103	drama	7	2007
+men of war	103	action	5.3	1994
+blue crush	104	adventure	5.6	2002
+invincible	105	drama	6.5	2006
+last vegas	105	comedy	6.4	2013
+meadowland	105	drama	6.4	2015
+viharsarok	105	drama	7.2	2014
+downloaded	106	documentary	6.5	2013
+starred up	106	drama	6.9	2014
+conviction	107	drama	7	2010
+volunteers	107	comedy	5.1	1985
+blue chips	108	drama	5.7	1994
+effie gray	108	drama	6.1	2014
+lean on me	108	drama	6.8	1989
+cosmopolis	109	drama	4.8	2012
+dawg fight	109	documentary	6.4	2015
+inside job	109	documentary	7.6	2010
+half light	110	thriller	5.9	2006
+straw dogs	110	thriller	5.3	2011
+talk radio	110	drama	5.5	1988
+camp x-ray	111	drama	6.7	2014
+rhinestone	111	comedy	5.3	1984
+stir crazy	111	comedy	6.7	1980
+the unsaid	111	thriller	6.5	2001
+the divide	112	sci-fi	5.6	2011
+undefeated	113	documentary	7.8	2011
+affliction	114	drama	5	1997
+road house	114	action	6.3	1989
+glory road	118	drama	7.1	2006
+talk to me	118	drama	6.9	2007
+red lights	119	thriller	6.1	2012
+miss julie	120	drama	5.4	2014
+awakenings	121	drama	7.4	1990
+the intern	121	comedy	7.1	2015
+concussion	123	drama	6.9	2015
+die hard 2	124	action	6.4	1990
+unfaithful	124	drama	6.4	2002
+trainwreck	125	comedy	6.1	2015
+c.r.a.z.y.	127	drama	7.4	2005
+courageous	129	drama	6.7	2011
+the butler	132	drama	7.2	2013
+dreamgirls	134	drama	6.5	2006
+this is 40	134	comedy	5.5	2012
+the matrix	136	action	7.8	1999
+the master	137	drama	6.8	2012
+son of god	138	drama	5.8	2014
+fight club	139	drama	8.1	1999
+robin hood	140	action	6.1	2010
+six shooter	27	comedy	6.7	2004
+deep sea 3d	41	documentary	5.7	2006
+life cycles	47	documentary	8.8	2010
+chasing ice	74	documentary	7.7	2012
+objectified	75	documentary	7.2	2009
+freeloaders	77	comedy	5	2012
+mockingbird	81	horror	4.1	2014
+summer camp	81	horror	5.3	2015
+talhotblond	83	documentary	6	2009
+the dirties	83	drama	6.2	2013
+james white	85	drama	5.2	2015
+shock waves	85	horror	4.9	1977
+sweet karma	85	action	4.7	2009
+the hunters	85	adventure	4.6	2013
+beer league	86	comedy	4.9	2006
+pumpkinhead	86	horror	5.5	1988
+strangeland	86	horror	4.8	1998
+up in smoke	86	comedy	6.5	1978
+black sheep	87	comedy	6.3	1996
+coffee town	87	comedy	6.6	2013
+lola versus	87	comedy	4.9	2012
+android cop	88	action	3	2014
+let us prey	88	horror	5.4	2014
+nice dreams	88	comedy	6.7	1981
+scary movie	88	comedy	5.9	2000
+smiley face	88	comedy	6.6	2007
+devil's due	89	horror	4.5	2014
+the pyramid	89	horror	4.7	2014
+the suspect	89	thriller	5.1	2013
+donner pass	90	horror	3.6	2012
+let it ride	90	comedy	7.1	1989
+madame irma	90	comedy	5.7	2006
+mercenaries	90	action	4.2	2014
+the patriot	90	action	4.1	1998
+the pelayos	90	drama	4.6	2012
+top secret!	90	comedy	6.8	1984
+tower block	90	thriller	5.3	2012
+boot tracks	91	thriller	3.8	2012
+futuresport	91	action	4.8	1998
+rabbit hole	91	drama	6.6	2010
+senior trip	91	comedy	5.7	1995
+bad teacher	92	comedy	5.4	2011
+creepshow 2	92	horror	5.8	1987
+don't blink	92	horror	4.1	2014
+life stinks	92	comedy	6.2	1991
+bad roomies	93	comedy	5.1	2015
+cabin fever	93	horror	5.3	2003
+cougar club	93	comedy	3.6	2007
+hot pursuit	93	comedy	5.6	1987
+lie with me	93	drama	5	2005
+the tripper	93	horror	4.7	2006
+boogeyman 3	94	horror	4.4	2008
+enfin veuve	94	comedy	4.6	2007
+to be takei	94	documentary	6.5	2014
+dinosaur 13	95	documentary	7	2014
+fear clinic	95	horror	4.1	2014
+hole in one	95	comedy	4.7	2009
+stash house	95	action	5.1	2012
+the swimmer	95	drama	5.5	1968
+don verdean	96	comedy	4	2015
+judge dredd	96	sci-fi	5.2	1995
+kill switch	96	action	4.7	2008
+tanner hall	96	drama	5.7	2009
+any day now	97	drama	5.7	2012
+double team	97	action	4.3	1997
+magic magic	97	thriller	5.3	2013
+bring it on	98	comedy	5.7	2000
+crime spree	98	action	6.3	2003
+next friday	98	comedy	6.6	2000
+nowhere boy	98	drama	6.9	2009
+starry eyes	98	horror	5.8	2014
+the in-laws	98	action	5.5	2003
+the veteran	98	action	5.7	2011
+unstoppable	98	action	6.2	2010
+wild target	98	action	6.1	2010
+cherry 2000	99	sci-fi	6	1987
+high school	99	comedy	5	2010
+most wanted	99	action	6	1997
+role models	99	comedy	6.3	2008
+still alice	99	drama	7.5	2014
+the descent	99	adventure	6.8	2005
+the reaping	99	horror	5.4	2007
+coyote ugly	100	comedy	6	2000
+grown ups 2	100	comedy	5.9	2013
+girl rising	101	documentary	7.1	2013
+untraceable	101	drama	5.8	2008
+being flynn	102	drama	5.3	2012
+camp takota	102	comedy	6.8	2014
+seventh son	102	adventure	5.1	2014
+st. vincent	102	comedy	7.1	2014
+baseketball	103	comedy	5.6	1998
+dragonheart	103	fantasy	6.1	1996
+grizzly man	103	documentary	6.9	2005
+keeping mum	103	comedy	6.5	2005
+nine months	103	comedy	5.4	1995
+the program	103	drama	5.9	2015
+under siege	103	action	5.9	1992
+the manitou	104	horror	5.8	1978
+tower heist	104	action	5.8	2011
+in the loop	106	comedy	6.5	2009
+joshua tree	106	action	5.3	1993
+night shift	106	comedy	6.4	1982
+school ties	106	drama	6.4	1992
+supervixens	106	comedy	6.4	1975
+the wee man	106	drama	5.4	2013
+vie sauvage	106	drama	6	2014
+adult world	107	comedy	6	2013
+half nelson	107	drama	6.2	2006
+moonwalkers	107	comedy	6	2015
+the rewrite	107	romantic-comedy	5.8	2014
+trophy kids	107	documentary	7.8	2013
+powder blue	108	drama	6.4	2009
+the calling	108	thriller	5.7	2014
+eve's bayou	109	drama	5.3	1997
+the soloist	109	drama	6.5	2009
+friendship!	110	comedy	7	2010
+the accused	111	drama	6.7	1988
+fool's gold	112	comedy	5.3	2008
+the captive	112	thriller	5.8	2014
+the program	112	drama	5.9	1993
+zwart water	112	horror	5.8	2010
+death proof	113	action	6.7	2007
+august rush	114	drama	6.9	2007
+citizenfour	114	documentary	7.8	2014
+poltergeist	114	horror	6.8	1982
+radio flyer	114	drama	6.3	1992
+the savages	114	drama	6.7	2007
+escape plan	115	action	6.7	2013
+gran torino	116	drama	7.6	2008
+testosteron	116	comedy	6	2007
+the fighter	116	drama	7.1	2010
+the servant	116	drama	6.2	1963
+life itself	120	documentary	7.7	2014
+miracle run	120	drama	7.1	2003
+party bercy	120	comedy	6.4	2012
+the trotsky	120	comedy	5.8	2009
+wild cherry	120	comedy	5.2	2009
+frost/nixon	122	drama	6.8	2008
+secretariat	123	drama	6.6	2010
+bridesmaids	125	romantic-comedy	6.5	2011
+raging bull	129	drama	7.4	1980
+the verdict	129	drama	7	1982
+the express	130	drama	7.1	2008
+city of joy	132	drama	6.4	1992
+the apostle	134	drama	5.4	1997
+the hustler	134	drama	7.3	1961
+bitter lake	135	documentary	7.8	2015
+sling blade	135	drama	6.9	1996
+sunset song	135	drama	7.1	2015
+he got game	136	drama	6.6	1998
+the natural	137	drama	6.8	1984
+cry freedom	157	drama	6.9	1987
+the aviator	170	drama	6.7	2004
+hoop dreams	171	documentary	7.3	1994
+the audition	16	comedy	6.1	2015
+alive inside	74	documentary	7.7	2014
+free to play	75	documentary	7	2014
+the tortured	79	horror	5.6	2010
+deathstalker	80	action	3.8	1983
+food matters	80	documentary	7	2008
+free samples	80	comedy	6.3	2012
+nobody walks	83	drama	5.2	2012
+the dictator	83	comedy	5.9	2012
+the meerkats	83	documentary	6.5	2008
+no good deed	84	thriller	5.8	2014
+atlantic rim	85	action	2.2	2013
+i smile back	85	drama	5.7	2015
+pumping iron	85	documentary	7	1977
+"surfer, dude"	85	comedy	5	2008
+the campaign	85	comedy	5.5	2012
+the makeover	85	comedy	5.4	2013
+viaggio sola	85	drama	5.4	2013
+a common man	86	action	5.5	2013
+silent movie	86	comedy	6.9	1976
+cedar rapids	87	comedy	5.7	2011
+dark circles	87	horror	4.4	2013
+seventh moon	87	horror	4.1	2008
+the woodsman	87	drama	6.4	2004
+god's pocket	88	drama	5.2	2014
+miss meadows	88	drama	4.6	2014
+out of reach	88	action	4.3	2004
+zombie night	88	horror	2.9	2013
+barely legal	89	comedy	3.5	2011
+dead silence	89	horror	6.2	2007
+stage fright	89	horror	5.3	2014
+the avengers	89	thriller	4.6	1998
+the punisher	89	action	5.2	1989
+the wolfpack	89	documentary	6.9	2015
+touchy feely	89	drama	5.4	2013
+best in show	90	comedy	6.7	2000
+factory girl	90	drama	6.2	2006
+freaky deaky	90	comedy	4.8	2012
+strange brew	90	comedy	5.7	1983
+the hit list	90	action	5.1	2011
+the waterboy	90	comedy	5.8	1998
+we were here	90	documentary	7.2	2011
+celtic pride	91	comedy	5	1996
+pledge this!	91	comedy	2.8	2006
+still smokin	91	comedy	5.3	1983
+the entitled	91	thriller	5.5	2011
+5 flights up	92	drama	5.9	2014
+arctic blast	92	sci-fi	4.4	2010
+loose screws	92	comedy	5.3	1985
+the war boys	92	drama	5.6	2009
+uptown girls	92	comedy	6.2	2003
+freakonomics	93	documentary	6.7	2010
+joy division	93	documentary	7.8	2007
+search party	93	comedy	5.3	2014
+zebra lounge	93	thriller	4	2001
+attack force	94	action	6.3	2006
+best defense	94	action	3.8	1984
+little birds	94	drama	5.6	2011
+scary or die	94	horror	3.6	2012
+ice soldiers	95	action	3.5	2013
+just married	95	comedy	5.3	2003
+super hybrid	95	horror	3.5	2010
+daddy's home	96	comedy	5.7	2015
+first sunday	96	action	5.2	2008
+hard to kill	96	action	5.4	1990
+mean girls 2	96	comedy	5.1	2011
+necronomicon	96	horror	4.8	1993
+the funhouse	96	horror	6	1981
+big business	97	comedy	5.7	1988
+east is east	97	comedy	6.5	1999
+savage grace	97	drama	6.1	2007
+surveillance	97	thriller	6	2008
+happy valley	98	documentary	6	2014
+ice princess	98	comedy	5.8	2005
+the believer	98	drama	6.8	2001
+the war zone	98	drama	7.4	1999
+blind dating	99	comedy	6.3	2006
+born to race	99	action	5.7	2011
+joe somebody	99	comedy	5.5	2001
+side by side	99	documentary	7	2012
+the wackness	99	drama	6.3	2008
+grey gardens	100	documentary	7.2	1975
+l!fe happens	100	comedy	5.2	2011
+the big year	100	comedy	5.4	2011
+the hangover	100	comedy	7.1	2009
+at middleton	101	romantic-comedy	6	2013
+sleepwalking	101	drama	6.4	2008
+the bachelor	101	comedy	4.5	1999
+about cherry	102	drama	4.4	2012
+cesar chavez	102	drama	5.3	2014
+rocky balboa	102	drama	6.4	2006
+the escapist	102	action	6.2	2008
+transamerica	103	drama	6.5	2005
+at any price	105	drama	5.5	2012
+class action	105	drama	6.6	1991
+delivery man	105	comedy	6.1	2013
+halloween ii	105	horror	5.2	2009
+simon killer	105	drama	5.8	2012
+the in crowd	105	thriller	5.2	2000
+a dark truth	106	action	5.6	2012
+medicine man	106	adventure	5.8	1992
+museum hours	106	drama	4.5	2012
+the break-up	106	romantic-comedy	5.5	2006
+major league	107	comedy	6.5	1989
+october baby	107	drama	6.7	2011
+the paperboy	107	thriller	5.4	2012
+dragonslayer	108	fantasy	6.7	1981
+sydney white	108	comedy	5.9	2007
+animal house	109	comedy	6.7	1978
+white chicks	109	comedy	6.4	2004
+kid cannabis	110	drama	6.3	2014
+nine to five	110	comedy	6.4	1980
+the good lie	110	drama	7.1	2014
+flash gordon	111	sci-fi	5.8	1980
+albert nobbs	113	drama	6.1	2011
+exit to eden	113	comedy	4.5	1994
+grudge match	113	comedy	6	2013
+house of wax	113	horror	5.3	2005
+are you here	114	comedy	4.9	2013
+natural city	114	sci-fi	4.9	2003
+last knights	115	action	6.3	2015
+the birdcage	117	comedy	6.8	1996
+stuck on you	118	comedy	4.8	2003
+pretty woman	119	romantic-comedy	6.9	1990
+the namesake	122	drama	7	2006
+seven pounds	123	drama	7.4	2008
+notting hill	124	comedy	6.8	1999
+marathon man	125	thriller	7.1	1976
+eastern boys	128	drama	5.8	2013
+nil by mouth	128	drama	6.4	1997
+men of honor	129	drama	7	2000
+grand canyon	134	drama	6.7	1991
+happy ending	135	comedy	5.4	2014
+coach carter	136	drama	7.3	2005
+the guardian	139	action	7	2006
+elmer gantry	146	drama	6.3	1960
+"paris, texas"	147	drama	7.4	1984
+planet earth	550	documentary	7.6	2006
+jean-philippe	0	comedy	5.6	2006
+the big shave	6	drama	6.7	1968
+talking funny	50	comedy	6.9	2011
+into eternity	75	documentary	7.6	2010
+tim's vermeer	80	documentary	7.1	2013
+don't grow up	81	horror	3.9	2015
+problem child	81	comedy	5.5	1990
+scary movie 2	83	comedy	5.5	2001
+scary movie 4	83	comedy	5.3	2006
+another woman	84	drama	5.8	1988
+scary movie 3	84	comedy	5.6	2003
+stuart little	84	fantasy	5.6	1999
+the pool boys	84	comedy	4.6	2011
+grace is gone	85	drama	5.9	2007
+puppet master	85	horror	5.6	1989
+the evil dead	85	horror	7.2	1981
+scary movie 5	86	comedy	4.6	2013
+storm warning	86	horror	5.4	2007
+the promotion	86	comedy	5.3	2008
+zero charisma	86	comedy	5.8	2013
+summer rental	87	comedy	7.1	1985
+twins of evil	87	horror	6.2	1971
+under the bed	87	horror	4.9	2012
+extreme movie	88	comedy	3.4	2008
+jurassic city	88	action	5.7	2015
+santa buddies	88	adventure	4.8	2009
+straightheads	88	thriller	4.8	2007
+the producers	88	comedy	6.8	1967
+the scribbler	88	thriller	4.3	2014
+a dirty shame	89	comedy	5.5	2004
+billy madison	89	comedy	6.2	1995
+ginger & rosa	89	drama	6.3	2012
+shadow people	89	thriller	5.2	2013
+500 mph storm	90	action	3.1	2013
+ass backwards	90	adventure	4.9	2013
+fading gigolo	90	comedy	5.8	2013
+from the dark	90	horror	6.1	2015
+gerontophilia	90	romantic-comedy	6.1	2013
+jackie & ryan	90	drama	5.5	2014
+see no evil 2	90	horror	4.1	2014
+the samaritan	90	thriller	4.7	2012
+jack and jill	91	comedy	4.2	2011
+molly maxwell	91	drama	5.8	2013
+the detonator	91	action	4.4	2006
+happy gilmore	92	comedy	6.4	1996
+the intruders	92	thriller	4.9	2015
+the true cost	92	documentary	7.6	2015
+unconditional	92	drama	5.8	2012
+bounty killer	93	action	5.6	2013
+dolly dearest	93	horror	5.6	1991
+in a world...	93	comedy	6.4	2013
+man vs. snake	93	documentary	6.8	2015
+sorority boys	93	comedy	5.4	2002
+the go-getter	93	comedy	6.3	2007
+carry on cleo	94	comedy	6.1	1964
+grandma's boy	94	comedy	6.6	2006
+life of brian	94	comedy	7.5	1979
+so undercover	94	action	5.7	2012
+thunderstruck	94	comedy	5.8	2012
+wayne's world	94	comedy	6.5	1992
+christmas eve	95	romantic-comedy	5.8	2015
+head of state	95	comedy	5.4	2003
+life partners	95	romantic-comedy	6.1	2014
+prozac nation	95	drama	6	2001
+silver bullet	95	horror	5.6	1985
+the 11th hour	95	documentary	6	2007
+the big brawl	95	action	6.3	1980
+the outskirts	95	comedy	4	2015
+underclassman	95	action	5.5	2005
+walk of shame	95	comedy	5.7	2014
+amos & andrew	96	action	4.8	1993
+baggage claim	96	comedy	5.8	2013
+short term 12	96	drama	7.8	2013
+slow learners	96	romantic-comedy	6	2015
+son of rambow	96	comedy	6.7	2007
+the foreigner	96	action	4.3	2003
+summer school	97	comedy	6.1	1987
+a better life	98	drama	6.6	2011
+caddyshack ii	98	comedy	4	1988
+cool runnings	98	comedy	6.8	1993
+desert dancer	98	drama	6.5	2014
+marvin's room	98	drama	6.3	1996
+step brothers	98	comedy	6.6	2008
+reality bites	99	drama	6.5	1994
+beautiful boy	100	drama	5.9	2010
+clear history	100	comedy	6.1	2013
+the innocents	100	horror	6.6	1961
+winter's bone	100	drama	6.7	2010
+arthur newman	101	drama	5.5	2012
+bouquet final	101	comedy	5.4	2008
+gimme shelter	101	drama	6.4	2013
+mortal kombat	101	action	5.4	1995
+shadow dancer	101	thriller	5.6	2012
+laurel canyon	103	drama	5.4	2002
+narco cultura	103	documentary	7.3	2013
+let's be cops	104	comedy	6.4	2014
+"love, marilyn"	105	documentary	6.2	2012
+riding giants	105	documentary	6.9	2004
+the awakening	105	horror	6	1980
+call me lucky	106	documentary	7.3	2015
+losing isaiah	106	drama	6.5	1995
+martian child	106	drama	7	2007
+promised land	106	drama	5.7	2012
+adventureland	107	comedy	6.3	2009
+the comebacks	107	comedy	5.2	2007
+young @ heart	107	documentary	7.3	2008
+the extra man	108	comedy	5.9	2010
+hungry hearts	109	drama	6.2	2015
+elephant song	110	drama	7.4	2014
+midnight lace	110	thriller	5.7	1960
+runaway train	111	action	6.6	1985
+fierce people	112	drama	5.8	2005
+not fade away	112	drama	5.4	2012
+the change-up	112	comedy	5.9	2011
+the ice storm	112	drama	6.3	1997
+the interview	112	action	6.1	2014
+crossing over	113	drama	5.8	2009
+hannah arendt	113	drama	6.8	2012
+the condemned	113	action	5.8	2007
+goya's ghosts	114	drama	6.7	2006
+the associate	114	comedy	6.4	1996
+hustle & flow	116	drama	6.2	2005
+that's my boy	116	comedy	5.6	2012
+amazing grace	117	drama	6.7	2006
+the wanderers	117	drama	7.5	1979
+madame bovary	118	drama	5.3	2015
+rollercoaster	119	action	6	1977
+big wednesday	120	drama	5.9	1978
+desert flower	120	drama	7.3	2009
+woman in gold	120	drama	7.3	2015
+a simple plan	121	thriller	6.5	1998
+air force one	124	action	6.1	1997
+reign over me	124	drama	7	2007
+north country	126	drama	6.8	2005
+state of play	127	action	6.6	2009
+eat pray love	133	drama	5.7	2010
+lorenzo's oil	135	drama	6.2	1992
+opening night	144	drama	6.2	1977
+the hurricane	146	drama	7.3	1999
+saint laurent	150	drama	5.8	2014
+cold mountain	154	drama	6.5	2003
+boogie nights	155	drama	7.3	1997
+out of africa	161	drama	6.7	1985
+king of kings	168	drama	5.9	1961
+dinner for one	18	comedy	6.3	1963
+scorpio rising	28	fantasy	5.7	1964
+the dream team	70	documentary	8	2012
+the bunny game	76	horror	4.8	2010
+bleeding heart	80	drama	4.8	2015
+wendy and lucy	80	drama	6.6	2008
+chloe and theo	81	drama	6.7	2015
+private resort	82	comedy	5.8	1985
+the ladies man	84	comedy	5.4	2000
+the loved ones	84	horror	6.3	2009
+sleepaway camp	85	horror	6.3	1983
+alex of venice	86	drama	6.1	2015
+run ronnie run	86	comedy	4.8	2002
+disaster movie	87	action	3.3	2008
+pregnancy pact	87	drama	4.5	2010
+the ones below	87	thriller	5.9	2015
+brotherly love	89	drama	7.4	2015
+into the storm	89	action	5.7	2014
+a faster horse	90	documentary	8	2015
+black dynamite	90	action	7.4	2009
+bob the butler	90	comedy	5.7	2005
+child's play 3	90	horror	5.5	1991
+horror express	90	horror	6.6	1972
+i am bruce lee	90	documentary	7	2012
+out for a kill	90	action	5	2003
+the benefactor	90	drama	4.5	2015
+the challenger	90	drama	6.5	2013
+canadian bacon	91	action	5.2	1995
+computer chess	91	comedy	6.1	2013
+fatal instinct	91	comedy	5.4	1993
+johnny be good	91	comedy	4.3	1988
+killing season	91	action	5.2	2013
+license to wed	91	comedy	5.1	2007
+tactical force	91	action	5.1	2011
+the full monty	91	comedy	6.4	1997
+the oblong box	91	horror	5.3	1969
+behaving badly	92	comedy	5	2014
+down periscope	92	comedy	5.8	1996
+student bodies	92	comedy	6	2015
+cannibal ferox	93	adventure	4.8	1981
+charlie's farm	93	horror	4.6	2014
+pink flamingos	93	comedy	6.3	1972
+vegas vacation	93	comedy	6.1	1997
+american heist	94	action	4.3	2014
+american ninja	95	action	5.8	1985
+fertile ground	95	horror	4	2011
+the guilt trip	95	comedy	5.3	2012
+the ladies man	95	comedy	7.2	1961
+you got served	95	drama	5.1	2004
+back to school	96	comedy	6.6	1986
+legally blonde	96	comedy	6.1	2001
+pretty in pink	96	comedy	6.6	1986
+a few best men	97	comedy	5.7	2011
+my blue heaven	97	action	6.4	1990
+shallow ground	97	horror	5	2005
+the couch trip	97	comedy	5.1	1988
+the story of o	97	drama	5.7	1975
+100% cachemire	98	comedy	5	2013
+all about evil	98	horror	5.4	2010
+scout toujours	98	comedy	5.9	1985
+streetdance 3d	98	drama	5.8	2010
+the babymakers	98	comedy	4.8	2012
+the quiet ones	98	horror	5.1	2014
+lottery ticket	99	comedy	5.8	2010
+particle fever	99	documentary	6.9	2013
+tiny furniture	99	comedy	5.8	2010
+the invitation	100	thriller	6.4	2015
+wing commander	100	action	4.1	1999
+after the ball	101	comedy	6.3	2015
+downhill racer	101	drama	5.5	1969
+life of a king	101	drama	6.2	2013
+monster-in-law	101	comedy	5.7	2005
+mouth to mouth	101	drama	5.4	2005
+the chosen one	101	comedy	5.1	2010
+racing stripes	102	comedy	5.1	2005
+sound of noise	102	comedy	7.2	2010
+pound of flesh	104	action	5.4	2015
+you're not you	104	drama	7.3	2014
+a late quartet	105	drama	6.4	2012
+bachelor party	105	comedy	5.9	1984
+the front page	105	comedy	6.4	1974
+the odd couple	106	comedy	7.3	1968
+american movie	107	documentary	7.5	1999
+chain reaction	107	adventure	5.3	1996
+me without you	107	drama	7	2001
+tropic thunder	107	action	6.4	2008
+calendar girls	108	comedy	6.5	2003
+temple grandin	108	drama	7.5	2010
+the crash reel	108	documentary	7.9	2013
+the dead lands	108	action	6	2014
+knight and day	109	action	5.9	2010
+on golden pond	109	drama	6.6	1981
+unknown caller	109	thriller	6.2	2015
+white oleander	109	drama	7.4	2002
+as i lay dying	110	drama	5.9	2013
+the specialist	110	action	5.5	1994
+fuera de carta	111	comedy	5.3	2008
+wassup rockers	111	drama	5.9	2005
+forever strong	112	drama	7.4	2008
+god's not dead	113	drama	6.1	2014
+the dream team	113	comedy	5.7	1989
+pawn sacrifice	114	drama	6.6	2015
+people like us	114	drama	6.6	2012
+the substitute	114	action	5.9	1996
+a civil action	115	drama	6	1998
+without limits	117	drama	6	1998
+the dressmaker	118	drama	6.9	2015
+the internship	119	comedy	6.1	2013
+mansfield park	120	drama	4.5	2007
+to save a life	120	drama	5.6	2009
+black or white	121	drama	6.7	2015
+reindeer games	124	thriller	5.2	2000
+the dark horse	124	drama	4.4	2014
+the peacemaker	124	action	5.5	1997
+the karate kid	126	drama	6.7	1984
+main tera hero	128	romantic-comedy	5.8	2014
+"mcfarland, usa"	128	drama	7.4	2015
+mommie dearest	129	drama	6	1981
+the blind side	129	drama	7.1	2009
+the book thief	131	drama	7.3	2013
+round midnight	133	drama	6.5	1986
+legenda no. 17	134	drama	6.8	2013
+secrets & lies	142	drama	6.7	1996
+angela's ashes	145	drama	7	1999
+eyes wide shut	159	drama	6.8	1999
+doctor zhivago	226	drama	5.9	2002
+mildred pierce	336	drama	6.6	2011
+alive in joburg	6	sci-fi	6.5	2005
+born to be wild	40	documentary	7.2	2011
+"vernon, florida"	55	documentary	5.1	1981
+night will fall	75	documentary	7.5	2014
+american muscle	77	action	2.8	2014
+the unbelievers	77	documentary	6.5	2013
+for all mankind	80	documentary	8.2	1989
+the onion movie	80	comedy	6	2008
+the punk singer	80	documentary	7.3	2013
+american virgin	82	comedy	5.3	2009
+finders keepers	82	documentary	5.7	2015
+point and shoot	82	documentary	7.2	2014
+mulberry street	84	horror	4.8	2006
+ali g indahouse	85	comedy	6	2002
+gates of heaven	85	documentary	5.9	1978
+lost after dark	85	horror	4.8	2014
+it's a disaster	86	comedy	5.8	2013
+two night stand	86	romantic-comedy	6.3	2014
+carry on matron	87	comedy	5.8	1972
+killing kennedy	87	drama	5.5	2013
+private lessons	87	romantic-comedy	6.1	1981
+the pixar story	87	documentary	7.3	2007
+carry on abroad	88	comedy	5.7	1972
+meet the patels	88	documentary	6.7	2015
+the babysitters	88	drama	5.3	2007
+the client list	88	drama	5.2	2010
+nuns on the run	89	comedy	5.3	1990
+the borderlands	89	horror	5	2013
+the calcium kid	89	comedy	5.5	2004
+the end of love	89	drama	5.7	2013
+best night ever	90	comedy	3.8	2014
+carry on doctor	90	comedy	5.9	1967
+come back to me	90	horror	5.6	2014
+grave halloween	90	horror	3.8	2013
+hansel & gretel	90	horror	4.8	2013
+how to be a man	90	comedy	6.6	2013
+mary and martha	90	drama	5.9	2013
+more than honey	90	documentary	6.7	2012
+problem child 2	90	comedy	5.2	1991
+robert the doll	90	horror	2.6	2015
+the big wedding	90	comedy	5.6	2013
+the condemned 2	90	action	4	2015
+they found hell	90	horror	4.6	2015
+zombie massacre	90	action	2.9	2013
+a girl like her	91	drama	7.3	2015
+date and switch	91	comedy	5.6	2014
+in the army now	91	comedy	5.6	1994
+new york minute	91	comedy	5.4	2004
+very good girls	91	drama	5.7	2013
+furry vengeance	92	comedy	4.7	2010
+porky's revenge	92	comedy	4.4	1985
+hostel: part ii	93	horror	5.6	2007
+ruthless people	93	comedy	6.3	1986
+the brown bunny	93	drama	5.5	2004
+the jerk theory	93	comedy	5.2	2009
+the poker house	93	drama	6.2	2008
+electric dreams	95	comedy	5.6	1984
+friday the 13th	95	horror	6.4	1980
+wayne's world 2	95	comedy	5.7	1993
+one square mile	96	drama	5.6	2014
+three fugitives	96	comedy	6.5	1989
+friday the 13th	97	horror	5.6	2009
+rumor has it...	97	comedy	5.2	2005
+that sugar film	97	documentary	6.4	2014
+the house bunny	97	romantic-comedy	5.6	2008
+too big to fail	97	drama	6.9	2011
+black and white	98	drama	4.7	1999
+love is strange	98	drama	6.4	2014
+moms' night out	98	comedy	5.7	2014
+all about steve	99	comedy	4.6	2009
+beethoven's 3rd	99	comedy	4.4	2000
+going overboard	99	comedy	2.3	1989
+only the strong	99	action	6.7	1993
+the hot flashes	99	comedy	4.3	2013
+accidental love	100	romantic-comedy	3.6	2015
+one small hitch	100	romantic-comedy	6.7	2013
+pet sematary ii	100	horror	5	1992
+red riding hood	100	thriller	5.5	2011
+what about bob?	100	comedy	6.8	1991
+the gatekeepers	101	documentary	6.2	2012
+the running man	101	action	6.3	1987
+drillbit taylor	102	comedy	5.3	2008
+no end in sight	102	documentary	6.7	2007
+a good marriage	103	thriller	5.3	2014
+beyond the mask	103	action	6.2	2015
+the expendables	103	action	5.9	2010
+all this mayhem	104	documentary	7.4	2014
+no reservations	104	comedy	6	2007
+the company men	104	drama	6.4	2010
+elefante blanco	105	drama	5.4	2012
+"i love you, man"	105	comedy	6.4	2009
+king kong lives	105	action	3.5	1986
+major league ii	105	comedy	5.2	1994
+mysterious skin	105	drama	7.1	2004
+generation iron	106	documentary	6.7	2013
+a lot like love	107	comedy	6.5	2005
+days of thunder	107	adventure	5.8	1990
+dumb and dumber	107	comedy	6.5	1994
+invasion u.s.a.	107	action	4.5	1985
+this is the end	107	action	6.2	2013
+regarding henry	108	drama	6.5	1991
+stories we tell	108	documentary	6.8	2012
+of mice and men	110	drama	6.8	1992
+made in america	111	comedy	5.6	1993
+american flyers	113	drama	5.3	1985
+midnight cowboy	113	drama	7	1969
+mission to mars	114	sci-fi	5.6	2000
+burnt offerings	116	horror	6.7	1976
+just go with it	117	romantic-comedy	6.3	2011
+my all american	118	drama	6.9	2015
+the beastmaster	118	action	6.2	1982
+flash of genius	119	drama	5.7	2008
+the danish girl	120	drama	7.3	2015
+won't back down	121	drama	5.2	2012
+american beauty	122	drama	7.7	1999
+fahrenheit 9/11	122	documentary	6.6	2004
+maurice richard	124	drama	5.5	2005
+ordinary people	124	drama	6.8	1980
+we are marshall	124	drama	6.5	2006
+abcs of death 2	125	horror	5.4	2014
+life as a house	125	drama	7	2001
+the delta force	125	action	5	1986
+holding the man	128	drama	7.9	2015
+the interpreter	128	action	6.2	2005
+the kite runner	128	drama	7.3	2007
+erin brockovich	131	drama	6.9	2000
+the corporation	145	documentary	7.1	2003
+west of memphis	150	documentary	7.5	2012
+the blue planet	400	documentary	6.9	2001
+portal: survive!	7	action	7.5	2013
+under the sea 3d	41	documentary	6.8	2009
+space station 3d	47	documentary	6.1	2002
+atari: game over	66	documentary	6.7	2014
+paris is burning	71	documentary	7.6	1990
+the king of kong	79	documentary	7.9	2007
+the benchwarmers	80	comedy	5.4	2006
+all hallows' eve	82	horror	4.7	2013
+digging for fire	83	drama	4.9	2015
+hot girls wanted	84	documentary	5.9	2015
+little manhattan	84	comedy	7	2005
+mistress america	84	comedy	6.4	2015
+nothing personal	85	drama	6.2	2009
+the last keepers	85	fantasy	4.8	2013
+the moth diaries	85	horror	5	2011
+fear of the dark	86	horror	5	2003
+high school high	86	comedy	5.3	1996
+hold your breath	87	horror	3.4	2012
+shakes the clown	87	action	4.9	1991
+what richard did	87	drama	4.9	2012
+age of dinosaurs	88	action	4.4	2013
+carry on camping	88	comedy	6.4	1969
+hostel: part iii	88	horror	4.9	2011
+puppet master ii	88	horror	5.7	1990
+the 10 year plan	90	romantic-comedy	6.1	2014
+april fool's day	91	horror	4.1	2008
+countess dracula	93	horror	5.3	1971
+eddie murphy raw	93	comedy	7	1987
+land of the dead	93	horror	5.8	2005
+the dark crystal	93	fantasy	7.3	1982
+what maisie knew	93	drama	7.5	2013
+marked for death	94	action	6	1990
+beyond the reach	95	thriller	5.5	2015
+return to sender	95	thriller	5	2015
+where hope grows	95	drama	7.2	2014
+generation um...	96	drama	4.8	2012
+crocodile dundee	97	adventure	6.2	1986
+freddy vs. jason	97	horror	5.7	2003
+connie and carla	98	comedy	6.8	2004
+five easy pieces	98	drama	6.8	1970
+the class of '92	98	documentary	6.6	2013
+everybody's fine	99	drama	6.5	2009
+the green prince	99	documentary	7.5	2014
+the night before	100	comedy	6.1	2015
+day of the woman	101	horror	5.7	1978
+grumpier old men	101	romantic-comedy	6.7	1995
+the fluffy movie	101	comedy	7	2014
+two weeks notice	101	romantic-comedy	5.8	2002
+agent cody banks	102	action	4.9	2003
+american ninja 5	102	action	4.2	1993
+on deadly ground	102	action	4.6	1994
+girl most likely	103	comedy	5.7	2012
+king of the hill	103	drama	5.4	1993
+another stakeout	105	action	4.9	1993
+forces of nature	105	comedy	5.2	1999
+little accidents	105	drama	5	2014
+anger management	106	comedy	5.9	2003
+biggie and tupac	107	documentary	6.3	2002
+lords of dogtown	107	drama	6.9	2005
+private benjamin	109	comedy	6.2	1980
+the ipcress file	109	thriller	6.6	1965
+a perfect ending	110	drama	7	2012
+personal effects	110	drama	5.1	2009
+kindergarten cop	111	comedy	5.7	1990
+there be dragons	112	drama	6.1	2011
+american reunion	113	comedy	6	2012
+don't say a word	113	thriller	6.1	2001
+edge of tomorrow	113	action	7.7	2014
+paradies: glaube	113	drama	6.4	2012
+black snake moan	116	drama	6.3	2006
+running on empty	116	drama	7.3	1988
+the replacements	118	comedy	5.8	2000
+cutthroat island	119	action	6.1	1995
+time out of mind	120	drama	5.4	2014
+the black dahlia	121	drama	5.8	2006
+dead man walking	122	drama	7.1	1995
+tristan & isolde	125	drama	6.2	2006
+dawn of the dead	127	horror	7.2	1978
+the power of one	127	drama	7.8	1992
+naam yi boon sik	129	action	6.5	2007
+english vinglish	133	drama	7.1	2012
+the normal heart	133	drama	7.8	2014
+hitting the apex	138	documentary	8	2015
+advise & consent	139	drama	7	1962
+any given sunday	150	drama	6.8	1999
+the color purple	154	drama	7.5	1985
+scent of a woman	157	drama	7.1	1992
+olive kitteridge	233	drama	7.1	2014
+portal: no escape	7	sci-fi	6.9	2011
+bo burnham: what.	60	comedy	7.7	2013
+not safe for work	74	thriller	4.9	2014
+hollywood shuffle	78	comedy	5.1	1987
+the hills run red	81	horror	4.6	2009
+some kind of hate	82	horror	3.9	2015
+meet the spartans	84	comedy	4	2008
+we are still here	84	horror	5.5	2015
+fruitvale station	85	drama	7.2	2013
+the foot fist way	85	comedy	5.3	2006
+come out and play	87	horror	4.9	2012
+enchanted kingdom	87	documentary	5.2	2014
+a dog's breakfast	88	comedy	4.9	2007
+george washington	89	drama	4.9	2000
+hungry for change	89	documentary	7.5	2012
+bring it on again	90	comedy	5.1	2004
+forks over knives	90	documentary	6.7	2011
+i know that voice	90	documentary	6.9	2013
+sleepwalk with me	90	comedy	6.3	2012
+the eichmann show	90	drama	6.2	2015
+assassin's bullet	91	action	3.1	2012
+knight rider 2000	91	action	4.6	1991
+the boy next door	91	thriller	3.9	2015
+the selfish giant	91	drama	7.1	2013
+the wicked within	91	horror	4.1	2015
+authors anonymous	92	comedy	3.7	2014
+the three stooges	92	comedy	4.9	2012
+way of the wicked	92	thriller	4.1	2014
+root of all evil?	93	documentary	7.5	2006
+heaven knows what	94	drama	6.9	2015
+life after people	94	documentary	6.9	2008
+the twelve chairs	94	comedy	6.1	1970
+detroit rock city	95	comedy	6.4	1999
+follow that camel	95	comedy	5.5	1967
+louder than words	95	drama	6.1	2013
+my man is a loser	95	comedy	4.9	2014
+napoleon dynamite	95	comedy	6.6	2004
+the story of luke	95	drama	4.9	2013
+i am chris farley	96	documentary	7	2015
+failure to launch	97	comedy	5.6	2006
+the black balloon	97	drama	6.8	2008
+the damned united	97	drama	7.1	2009
+the odd couple ii	97	adventure	6.2	1998
+final destination	98	horror	6.2	2000
+charlie st. cloud	99	drama	6.8	2010
+apartment 1303 3d	101	horror	4	2012
+the ides of march	101	drama	6.4	2011
+the wrecking crew	101	documentary	6.8	2008
+because i said so	102	comedy	5.8	2007
+funeral in berlin	102	thriller	5.7	1966
+tellement proches	102	comedy	6.5	2009
+terminal velocity	102	action	4.8	1994
+the unknown known	102	documentary	7.4	2013
+two-lane blacktop	102	drama	5.8	1971
+hateship loveship	103	drama	5	2013
+stand and deliver	103	drama	7.3	1988
+copying beethoven	104	drama	5.9	2006
+heaven adores you	104	documentary	6.8	2014
+parental guidance	104	comedy	5.9	2012
+gods and monsters	105	drama	5.6	1998
+just like a woman	105	drama	6	2012
+kramer vs. kramer	105	drama	7.3	1979
+"to sir, with love"	105	drama	7.2	1967
+finding neverland	106	drama	7.1	2004
+horrible bosses 2	108	comedy	6.1	2014
+mississippi grind	108	drama	5.7	2015
+gleaming the cube	109	drama	5.7	1989
+louder than bombs	109	drama	6.3	2015
+the bounty hunter	110	action	5.5	2010
+facing the giants	111	drama	6.8	2006
+pineapple express	111	action	6.6	2008
+the sunshine boys	111	comedy	7	1975
+to rome with love	111	romantic-comedy	5.5	2012
+jumping the broom	112	comedy	6.3	2011
+maps to the stars	112	drama	5.6	2014
+under the volcano	112	drama	6.4	1984
+queen and country	114	drama	6	2014
+the holy mountain	114	drama	7.4	1973
+beyond the lights	116	drama	6.9	2014
+chasing mavericks	117	drama	7	2012
+indecent proposal	117	drama	5.6	1993
+the bourne legacy	120	action	5.9	2012
+a most wanted man	121	thriller	6.3	2014
+the abcs of death	123	horror	4.5	2013
+the armstrong lie	124	documentary	7.2	2013
+iron jawed angels	125	drama	6.3	2004
+good will hunting	126	drama	7.7	1997
+"girl, interrupted"	127	drama	7.5	1999
+guyver: dark hero	127	sci-fi	5.5	1994
+keeping the faith	127	comedy	5.7	2000
+the perfect storm	130	drama	5.9	2000
+die weisse massai	131	drama	6.5	2005
+for colored girls	134	drama	7.3	2010
+finding forrester	136	drama	6.9	2000
+parts per billion	139	sci-fi	4.8	2014
+the joy luck club	139	drama	6.8	1993
+wuthering heights	142	drama	7.4	2009
+romanzo criminale	152	drama	6.9	2005
+human trafficking	176	drama	7	2005
+david copperfield	185	drama	7.3	1999
+political animals	252	drama	7.1	2012
+permanent vacation	75	drama	6.2	1980
+most likely to die	81	horror	4.2	2015
+the starving games	83	comedy	4.1	2013
+relative strangers	84	comedy	5.4	2006
+the sweetest thing	84	romantic-comedy	5.4	2002
+they came together	84	comedy	5.2	2014
+a ballerina's tale	85	documentary	6	2015
+addicted to fresno	85	comedy	4.8	2015
+born into brothels	85	documentary	6.4	2004
+gulliver's travels	85	comedy	5	2010
+carry on constable	86	comedy	6	1960
+undercover brother	86	action	5.4	2002
+deep in the valley	87	comedy	4.2	2009
+he named me malala	87	documentary	5.3	2015
+jackass: the movie	87	comedy	6.2	2002
+strange wilderness	87	comedy	4.6	2008
+the haunted palace	87	horror	6.1	1963
+inequality for all	88	documentary	7.9	2013
+dear mr. watterson	89	documentary	5.7	2013
+grimm's snow white	89	fantasy	6.1	2012
+when we were kings	89	documentary	7	1996
+white man's burden	89	drama	5	1995
+lemale et ha'halal	90	drama	6.1	2012
+tales of halloween	90	horror	5.3	2015
+the out-of-towners	90	comedy	5.2	1999
+the skeleton twins	90	drama	6.7	2014
+the sunset limited	90	drama	7	2011
+2 days in new york	91	comedy	5.3	2012
+belly of the beast	91	action	4.7	2003
+dogtown and z-boys	91	documentary	6.7	2001
+one in the chamber	91	action	3.9	2012
+the great outdoors	91	comedy	6.2	1988
+the vampire lovers	91	horror	6.5	1970
+absolute deception	92	action	4.4	2013
+chris tucker: live	92	comedy	6.7	2015
+death at a funeral	92	comedy	5.7	2010
+inside deep throat	92	documentary	6.8	2005
+a cinderella story	95	comedy	5.9	2004
+front of the class	95	drama	7.8	2008
+grave encounters 2	95	horror	5.1	2012
+psycho beach party	95	comedy	5.3	2000
+the cannonball run	95	comedy	6.3	1981
+the endless summer	95	documentary	7.4	1966
+the wedding singer	95	romantic-comedy	6.4	1998
+the wizard of gore	95	horror	4.3	1970
+dead man on campus	96	comedy	5.1	1998
+electrick children	96	drama	6.6	2012
+merchants of doubt	96	documentary	7.4	2014
+the inbetweeners 2	96	comedy	5.9	2014
+better off dead...	97	comedy	6.9	1985
+three o'clock high	97	comedy	6.6	1987
+drop dead gorgeous	98	comedy	6.2	1999
+heaven is for real	99	drama	6.1	2014
+once were warriors	99	drama	7.3	1994
+before i disappear	100	drama	5.9	2014
+invaders from mars	100	sci-fi	5.1	1986
+all for the winner	101	action	6.6	1990
+outpost: black sun	101	action	3.7	2012
+prince of darkness	101	horror	6.5	1987
+the wedding ringer	101	comedy	6.5	2015
+the cincinnati kid	102	drama	6.8	1965
+i shot andy warhol	103	drama	6.3	1996
+lalehet al hamayim	103	drama	6.4	2004
+our family wedding	103	comedy	5.9	2010
+the hunting ground	103	documentary	7.8	2015
+the miracle worker	106	drama	6.8	1962
+to be or not to be	107	comedy	7.2	1983
+an unfinished life	108	drama	6.9	2005
+the girl next door	108	comedy	6.2	2004
+my sister's keeper	109	drama	7	2009
+dumb and dumber to	110	comedy	5.5	2014
+prick up your ears	111	drama	4.7	1987
+the straight story	112	drama	7.3	1999
+the golden compass	113	adventure	5.7	2007
+two-minute warning	115	action	6	1976
+"me, myself & irene"	116	comedy	5.9	2000
+the heartbreak kid	116	comedy	5.6	2007
+american history x	119	drama	8	1998
+the color of money	119	drama	6.5	1986
+olympus has fallen	120	action	6.2	2013
+the social network	120	drama	7.1	2010
+walt before mickey	120	drama	6.2	2015
+million dollar arm	124	drama	6.6	2014
+music of the heart	124	drama	6.7	1999
+the fortune cookie	125	romantic-comedy	6.4	1966
+the great debaters	126	drama	6.6	2007
+dead poets society	129	drama	7.9	1989
+before night falls	134	drama	5.5	2000
+this sporting life	134	drama	5.8	1963
+castello cavalcanti	8	comedy	7	2013
+ben 10: alien swarm	69	adventure	4.4	2009
+jim jefferies: bare	76	comedy	7.4	2014
+cutie and the boxer	81	documentary	7.3	2013
+some velvet morning	82	drama	5.6	2013
+the vault of horror	83	horror	6.5	1973
+broadway danny rose	84	comedy	6.6	1984
+frankenstein's army	84	action	5.7	2013
+miss representation	85	documentary	7.8	2011
+dracula iii: legacy	86	horror	3.6	2005
+someone marry barry	86	comedy	5.6	2014
+carry on screaming!	87	comedy	7	1966
+freddy got fingered	87	comedy	4.3	2001
+goodbye to all that	87	comedy	5.2	2014
+beverly hills ninja	88	action	5.5	1997
+lying to be perfect	89	comedy	5.8	2010
+the hills have eyes	89	horror	6	1977
+a very brady sequel	90	comedy	5.6	1996
+leprechaun: origins	90	horror	3.9	2014
+miss austen regrets	90	drama	5.1	2008
+night of the demons	90	horror	5.4	1988
+the numbers station	90	action	5.2	2013
+the september issue	90	documentary	7.1	2009
+the slammin' salmon	90	comedy	6	2009
+unfinished business	90	comedy	4.9	2015
+at the devil's door	91	horror	4.7	2014
+the howling: reborn	92	horror	4.4	2011
+night of the demons	93	horror	4.2	2009
+soldiers of fortune	94	action	4.9	2012
+house of the dead 2	95	horror	3.8	2005
+simply irresistible	95	comedy	6.2	1999
+the missing picture	95	documentary	5.8	2013
+the devil rides out	96	horror	6.2	1968
+the gene generation	96	action	4.8	2007
+brewster's millions	97	comedy	6.5	1985
+weekend at bernie's	97	comedy	6.2	1989
+wrath of the titans	99	adventure	5.5	2012
+beware of mr. baker	100	documentary	7.3	2012
+assassination games	101	action	5.8	2011
+lost in translation	102	drama	7.3	2003
+requiem for a dream	102	drama	7.7	2000
+un amour à taire	102	drama	6.1	2005
+listen to me marlon	103	documentary	7	2015
+the final countdown	103	action	5.7	1980
+the look of silence	103	documentary	7.8	2014
+the wedding planner	103	comedy	5.4	2001
+here comes the boom	105	action	6.1	2012
+the end of the tour	106	drama	7.3	2015
+single white female	107	thriller	6	1992
+the children's hour	107	drama	7	1961
+the meaning of life	107	comedy	6.9	1983
+the next karate kid	107	adventure	4.8	1994
+necessary roughness	108	comedy	5.4	1991
+crocodile dundee ii	110	adventure	5.5	1988
+the house i live in	110	documentary	7.1	2012
+trapped in paradise	111	action	5.2	1994
+akeelah and the bee	112	drama	6.6	2006
+looking for richard	112	documentary	7	1996
+the grand seduction	112	comedy	6.7	2014
+the sweet hereafter	112	drama	6.4	1997
+remember the titans	113	drama	7.3	2000
+dinner for schmucks	114	comedy	5.4	2010
+the gingerbread man	114	thriller	6.2	1998
+the theatre bizarre	114	horror	5.8	2011
+battle: los angeles	116	action	5.5	2011
+friday night lights	118	drama	7.2	2004
+welcome to new york	125	drama	5.5	2014
+death of a salesman	130	drama	5.6	1985
+message in a bottle	131	drama	5.7	1999
+million dollar baby	132	drama	7.6	2004
+you don't know jack	134	drama	6.7	2010
+birdman of alcatraz	143	drama	6.4	1962
+midnight's children	148	drama	5	2012
+there will be blood	158	drama	7.8	2007
+the devil's carnival	55	horror	5.4	2012
+living on one dollar	56	documentary	6.7	2013
+bill burr: let it go	65	comedy	8	2010
+the city of the dead	76	horror	6.1	1960
+the tracey fragments	77	drama	5.9	2007
+banksy does new york	79	documentary	6.8	2014
+jiro dreams of sushi	82	documentary	7.8	2011
+finding vivian maier	83	documentary	7.8	2014
+inappropriate comedy	84	comedy	3.2	2013
+the girl in the book	86	drama	6.2	2015
+john tucker must die	87	comedy	6	2006
+the mask you live in	88	documentary	8.9	2015
+the ouija experiment	88	horror	4.3	2011
+guest house paradiso	89	comedy	5.6	1999
+after school special	90	comedy	4.8	2003
+beauty and the beast	90	fantasy	5.6	2009
+revenge of the nerds	90	comedy	6.6	1984
+red faction: origins	91	sci-fi	5	2011
+the football factory	91	drama	6.9	2004
+tales from the crypt	92	horror	8	1972
+a lego brickumentary	93	documentary	6.5	2015
+the brothers solomon	93	comedy	4.9	2007
+all things must pass	94	documentary	7	2015
+beneath the darkness	96	thriller	5.4	2011
+hot dog... the movie	96	comedy	4.4	1984
+it's a free world...	96	drama	5.5	2007
+phoebe in wonderland	96	drama	6.9	2008
+road trip: beer pong	96	comedy	5.2	2009
+strangers with candy	97	comedy	5.7	2006
+the man who sued god	97	comedy	5.7	2001
+my week with marilyn	99	drama	6.7	2011
+nothing left to fear	100	horror	4.6	2013
+oranges and sunshine	100	drama	6	2010
+sabrina goes to rome	100	comedy	5.4	1998
+the duke of burgundy	101	drama	5.8	2015
+the hangover part ii	102	comedy	6.1	2011
+the first wives club	103	comedy	6.4	1996
+great balls of fire!	108	drama	5.6	1989
+kickin' it old skool	108	comedy	4.1	2007
+staten island summer	108	comedy	5.6	2015
+get him to the greek	109	comedy	5.9	2010
+the girl in the park	109	drama	6.2	2007
+flashbacks of a fool	110	drama	6.7	2008
+sunday bloody sunday	110	drama	6.8	1971
+welcome to mooseport	110	comedy	4.8	2004
+billion dollar brain	111	thriller	4.6	1967
+my brother the devil	111	drama	6.2	2012
+pawn shop chronicles	112	action	5.6	2013
+for richer or poorer	115	comedy	5.8	1997
+the cheshire murders	115	documentary	5.3	2013
+nymphomaniac: vol. i	118	drama	6.7	2013
+where to invade next	120	documentary	7.2	2015
+90 minutes in heaven	121	drama	5.7	2015
+the best man holiday	123	comedy	7	2013
+the matrix revisited	123	documentary	6.5	2001
+clouds of sils maria	124	drama	6.8	2014
+"synecdoche, new york"	124	drama	7.4	2008
+gorillas in the mist	129	drama	6.8	1988
+an angel at my table	158	drama	6.1	1990
+the towering inferno	159	action	7.2	1974
+king solomon's mines	173	action	5	2004
+louis c.k.: shameless	57	comedy	7.3	2007
+louis c.k.: oh my god	58	comedy	7.5	2013
+donald glover: weirdo	60	comedy	6.9	2011
+louis c.k.: chewed up	60	comedy	7.8	2008
+daft punk's electroma	74	sci-fi	6.7	2006
+girl walks into a bar	80	comedy	5.9	2011
+the mummy resurrected	80	horror	4.6	2014
+"dude, where's my car?"	83	comedy	5.1	2000
+paranormal activity 3	83	horror	6	2011
+louis c.k.: hilarious	84	comedy	7.9	2010
+the brady bunch movie	84	comedy	5.5	1995
+but i'm a cheerleader	85	comedy	6.4	1999
+carry on again doctor	85	comedy	6	1969
+dracula ii: ascension	85	horror	4.4	2003
+the brides of dracula	85	horror	6.6	1960
+2016: obama's america	87	documentary	4.7	2012
+jack the giant killer	87	action	4	2013
+two thousand maniacs!	87	horror	6.5	1964
+these amazing shadows	88	documentary	7.2	2011
+house of 1000 corpses	89	horror	5.8	2003
+no stranger than love	89	romantic-comedy	4.1	2015
+12 rounds 3: lockdown	90	action	4.5	2015
+a bride for christmas	90	comedy	5.8	2012
+maradona by kusturica	90	documentary	5.8	2008
+scream of the banshee	90	horror	5.1	2011
+decoding annie parker	91	drama	5.2	2014
+just one of the girls	91	comedy	6.4	1993
+mercenary for justice	91	action	4.5	2006
+the atticus institute	92	horror	5.3	2015
+the cold light of day	93	action	4.8	2012
+12 rounds 2: reloaded	95	action	5.6	2013
+paranormal activity 4	95	horror	5.3	2012
+welcome to the jungle	95	comedy	4.9	2013
+indie game: the movie	96	documentary	7.3	2012
+employee of the month	97	action	5.7	2004
+kissing jessica stein	97	comedy	5.9	2001
+lezioni di cioccolato	99	comedy	5.5	2007
+an inconvenient truth	100	documentary	6.5	2006
+no no: a dockumentary	100	documentary	6.7	2014
+the hangover part iii	100	comedy	6	2013
+my best friend's girl	101	comedy	5.3	2008
+the end of the affair	102	drama	6.1	1999
+a night in old mexico	103	drama	5.7	2013
+all things fall apart	106	drama	5.8	2011
+taxi to the dark side	106	documentary	5.2	2007
+friends with benefits	109	comedy	6.5	2011
+welcome to the rileys	110	drama	6.3	2010
+the door in the floor	111	drama	5.6	2004
+the buddy holly story	113	drama	7.2	1978
+the other boleyn girl	115	drama	6.3	2008
+fathers and daughters	116	drama	7	2015
+the last picture show	118	drama	7	1971
+the central park five	119	documentary	6.4	2012
+bowling for columbine	120	documentary	7.2	2002
+jayne mansfield's car	122	drama	6	2012
+the devil's violinist	122	drama	5	2013
+house of sand and fog	126	drama	6.5	2003
+the cider house rules	126	drama	6.6	1999
+live free or die hard	128	action	6.3	2007
+the day of the jackal	143	action	6.7	1973
+ring of the nibelungs	184	action	6.2	2004
+madea's family reunion	0	comedy	5.9	2002
+the food guide to love	0	romantic-comedy	5.6	2013
+mortal kombat: rebirth	8	action	7.2	2010
+interior. leather bar.	60	drama	5.3	2013
+tomb raider: ascension	60	action	5.3	2008
+bill hicks: relentless	61	comedy	8.4	1992
+jim gaffigan: obsessed	70	comedy	7.2	2014
+"what's up, tiger lily?"	80	action	5.4	1966
+a night at the roxbury	81	comedy	6.2	1998
+let's kill ward's wife	81	comedy	5.3	2014
+look who's talking too	81	romantic-comedy	5.1	1990
+and while we were here	83	drama	5.7	2013
+beauty & the briefcase	83	romantic-comedy	5.1	2010
+"people, places, things"	85	comedy	6.6	2015
+roald dahl's esio trot	87	comedy	6.8	2014
+100 degrees below zero	88	action	3.7	2013
+master of the universe	88	documentary	6.6	2013
+stalked by my neighbor	88	thriller	5.5	2015
+carry on up the jungle	89	comedy	6.5	1970
+not another teen movie	89	comedy	5.3	2001
+3 nights in the desert	90	drama	3.8	2015
+eating out: drama camp	90	comedy	6.9	2011
+fun with dick and jane	90	comedy	5.9	2005
+leprechaun in the hood	90	horror	4.6	2000
+tekken: a man called x	90	action	4.2	2014
+ai weiwei: never sorry	91	documentary	7.3	2012
+embrace of the vampire	91	horror	4.9	2013
+the last of robin hood	92	drama	5.8	2013
+hot tub time machine 2	93	comedy	5	2015
+from beijing with love	94	action	7.2	1994
+flesh for frankenstein	95	horror	4.8	1973
+the inbetweeners movie	97	comedy	6.2	2011
+weekend at bernie's ii	97	comedy	5.2	1993
+a good day to die hard	98	action	5.2	2013
+eddie izzard: glorious	99	comedy	5.5	1997
+the legend of hercules	99	action	4.4	2014
+waiting for 'superman'	102	documentary	6.9	2010
+extraordinary measures	105	drama	5.8	2010
+much ado about nothing	107	comedy	7.1	2012
+assault on precinct 13	109	thriller	5.9	2005
+the gods must be crazy	109	action	7.2	1980
+breakfast of champions	110	comedy	4.8	1999
+resurrecting the champ	112	drama	5.4	2007
+rachel getting married	113	drama	6.1	2008
+the man without a face	114	drama	5.7	1993
+fifty dead men walking	117	action	6	2008
+get rich or die tryin'	117	drama	6.5	2005
+the poseidon adventure	117	action	7.7	1972
+this must be the place	118	drama	6.3	2011
+and the band played on	140	drama	4.4	1993
+bill hicks: revelations	60	comedy	7.8	1993
+eddie murphy: delirious	69	comedy	7.3	1983
+slaughtered vomit dolls	71	horror	3	2006
+hellraiser: revelations	75	horror	2.9	2011
+a brief history of time	80	documentary	7.1	1991
+airplane ii: the sequel	85	comedy	5.7	1982
+hello ladies: the movie	85	comedy	6.3	2014
+the amityville haunting	86	horror	5.2	2011
+the marine 3: homefront	86	action	4.7	2013
+i'm gonna git you sucka	88	action	5.4	1988
+the kiss of the vampire	88	horror	6.7	1963
+the bad education movie	90	comedy	5.2	2015
+the bell witch haunting	91	horror	2.9	2013
+nitro circus: the movie	92	action	6.8	2012
+the beverly hillbillies	93	comedy	5.3	1993
+interview with a hitman	95	action	4.7	2012
+"fat, sick & nearly dead"	97	documentary	7.2	2010
+my beautiful laundrette	97	drama	6.2	1985
+northmen: a viking saga	97	adventure	5.3	2014
+the right kind of wrong	97	romantic-comedy	6	2013
+wet hot american summer	97	comedy	6.5	2001
+the diary of anne frank	100	drama	7.5	2009
+the queen of versailles	100	documentary	6.8	2012
+bettie page reveals all	101	documentary	7	2013
+lol (laughing out loud)	103	comedy	6.4	2008
+battle beyond the stars	104	sci-fi	6	1980
+bringing down the house	105	comedy	5.3	2003
+the music never stopped	105	drama	7.3	2011
+something to talk about	106	comedy	5.9	1995
+"bright lights, big city"	107	drama	3.9	1988
+capturing the friedmans	107	documentary	7.4	2003
+fireflies in the garden	108	drama	6.2	2008
+taking care of business	108	comedy	5.9	1990
+goal!: the dream begins	118	drama	6.5	2005
+the world made straight	119	drama	5.8	2015
+a river runs through it	123	drama	6.7	1992
+loose change: final cut	129	documentary	5.1	2007
+the power of nightmares	180	documentary	7.6	2004
+the century of the self	235	documentary	8.3	2002
+wonders of the universe	240	documentary	6.6	2011
+the secret life of brian	50	documentary	7.2	2007
+manos: the hands of fate	74	horror	1.5	1966
+birth of the living dead	76	documentary	6.1	2013
+the jeffrey dahmer files	76	documentary	5.9	2013
+showdown in little tokyo	79	action	5.4	1991
+the pit and the pendulum	80	horror	6.3	1961
+kung pow: enter the fist	81	action	5.9	2002
+kevin and perry go large	82	comedy	4.7	2000
+the kentucky fried movie	83	comedy	6.2	1977
+bill cunningham new york	84	documentary	8.1	2010
+"for a good time, call..."	85	comedy	5.8	2012
+"no retreat, no surrender"	85	action	6.2	1986
+mardi gras: spring break	88	comedy	4.4	2011
+night of the living dead	88	horror	6.7	1990
+astronaut: the last push	90	sci-fi	4.8	2012
+the times of harvey milk	90	documentary	6.3	1984
+chris rock: never scared	91	comedy	6.6	2004
+in questo mondo di ladri	91	comedy	5.2	2004
+stuart: a life backwards	92	drama	7.1	2007
+the last american virgin	92	comedy	6.6	1982
+until the light takes us	93	documentary	6.5	2008
+born to race: fast track	94	action	5.3	2014
+night of the living dead	96	horror	7.2	1968
+the two faces of january	96	thriller	5.4	2014
+the pit and the pendulum	97	horror	5.5	1991
+urban legends: final cut	97	horror	4.3	2000
+porky's ii: the next day	98	comedy	4.9	1983
+a christmas horror story	99	horror	5.6	2015
+the island of dr. moreau	99	sci-fi	5.1	1977
+"sex, lies, and videotape"	100	drama	6.3	1989
+smokey and the bandit ii	100	action	5	1980
+tt3d: closer to the edge	104	documentary	7.9	2011
+the secret of my success	111	comedy	5.7	1987
+the pursuit of happyness	117	drama	7.5	2006
+every thing will be fine	118	drama	5.1	2015
+capitalism: a love story	120	documentary	6.9	2009
+kiss of the spider woman	120	drama	5.5	1985
+the hundred-foot journey	122	drama	7.2	2014
+the five-year engagement	124	comedy	5.6	2012
+the audrey hepburn story	133	drama	5.3	2000
+my best friend's birthday	36	comedy	5.1	1987
+john mulaney: new in town	60	comedy	8.1	2012
+russell peters: notorious	71	comedy	7.2	2013
+slow torture puke chamber	75	horror	2.4	2010
+aziz ansari: buried alive	79	comedy	7.5	2013
+the marc pease experience	84	comedy	4.5	2009
+the yes men fix the world	87	documentary	6.5	2009
+carry on... up the khyber	88	comedy	6.4	1968
+"fat, sick & nearly dead 2"	89	documentary	6.5	2014
+the search for santa paws	89	adventure	5.7	2010
+the trials of cate mccall	89	drama	5.7	2013
+i hate christian laettner	90	documentary	6.7	2015
+the man with one red shoe	90	action	5.2	1985
+a nightmare on elm street	91	horror	7.1	1984
+cabin fever: patient zero	91	horror	4.6	2014
+careful what you wish for	91	thriller	5.4	2015
+wrong turn 6: last resort	91	horror	4.9	2014
+halo 4: forward unto dawn	92	sci-fi	6.5	2012
+into the blue 2: the reef	92	action	5	2009
+the curse of the werewolf	93	horror	7	1961
+mrs. brown's boys d'movie	94	comedy	5.2	2014
+the legend of billie jean	96	action	7.1	1985
+for the bible tells me so	98	documentary	6.1	2007
+the gods must be crazy ii	98	action	6.9	1989
+van wilder: freshman year	100	comedy	5	2009
+robin hood: men in tights	104	comedy	6.3	1993
